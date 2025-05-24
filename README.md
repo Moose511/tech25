@@ -57,3 +57,8 @@ An operating system is the software platform that manages hardware resources and
 
 #### System Communication Flow:
 
+
+
+
+
+## Lesson 2:
